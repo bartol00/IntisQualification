@@ -1,0 +1,7 @@
+org\acme\MyEntity.class
+org\acme\rest\UserRest.class
+META-INF\panache-archive.marker
+org\acme\repository\UserRepository.class
+org\acme\service\UserService.class
+org\acme\entity\User.class
+org\acme\GreetingResource.class
